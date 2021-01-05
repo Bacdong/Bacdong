@@ -46,14 +46,14 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [YouTube Rewind 2020 - Web Dev Edition!](https://www.youtube.com/watch?v=F9ON_E6-y1E)
-- ["Glassmorphism" Frosted Glass Credit Card Form with Validation | HTML, CSS, JavaScript](https://www.youtube.com/watch?v=jEa9YyRqE1U)
-- [STOP Declaring IDs!?! JavaScript Global Variables Best Practices](https://www.youtube.com/watch?v=cve1gYV7jWk)
-- [This is ALL you NEED to Become a Web Developer Today (2021)](https://www.youtube.com/watch?v=LTwFX-hitQo)
-- [Top VS Code Updates | Last 2020 Update | v1.52 Released!! | Tips & Tricks 2020](https://www.youtube.com/watch?v=dgOu1Y9xl5k)
+- [The Figma 2021 Crash Course by Example](https://www.youtube.com/watch?v=Gu1so3pz4bA&t=236s)
+- [270+ Creative CSS & Javascript Animation & Hover Effects | Stunning CSS3 Effects 2020](https://www.youtube.com/watch?v=iZ9tuuZzY_g)
+- [2021 Tech Trends & Predictions for Developers](https://www.youtube.com/watch?v=oHtR5YSPLjo)
+- [5 Tips To Get A Job in Web Development: Career Advice](https://www.youtube.com/watch?v=eip8MnR-4Z8)
+- [webpack Tutorial: devServer & Hot Module Replacement (Live Reload)](https://www.youtube.com/watch?v=yR25JoybTxo)
 <!-- YOUTUBE:END -->
 
-➡️ [more videos...](https://youtube.com/codestackr)
+➡️ [more videos...](https://youtube.com)
 
 ---
 
