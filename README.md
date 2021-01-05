@@ -1,6 +1,6 @@
 ### Welcome to my profile 👋 ###
 
-![](https://komarev.com/ghpvc/?username=Bacdong)
+![](https://komarev.com/ghpvc/?username=Bacdong&color=blueviolet)
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Bacdong&show_icons=true&theme=tokyonight)
 
