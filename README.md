@@ -8,7 +8,7 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.Xb2bMZjDEFKdmicE9O0sAwHaE7%26pid%3DApi&f=1" alt="Hoang Thai Vu" width="350" />](https://open.spotify.com/album/5eZM5D8F9yNZvsE4uC2l1s)
+[<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.Xb2bMZjDEFKdmicE9O0sAwHaE7%26pid%3DApi&f=1" alt="Hoang Thai Vu" width="350px" />](https://open.spotify.com/album/5eZM5D8F9yNZvsE4uC2l1s)
 
 ### Connect with me:
 
