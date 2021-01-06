@@ -29,12 +29,10 @@
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />]
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />]
 [<img align="left" alt="Python" width="26px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.freebiesupply.com%2Flogos%2Fthumbs%2F2x%2Fpython-5-logo.png&f=1&nofb=1" />]
-[<img align="left" alt="Django" width="26px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.freebiesupply.com%2Flogos%2Flarge%2F2x%2Fdjango-community-logo-png-transparent.png&f=1&nofb=1" />]
-[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />]
-[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />]
-[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />]
-
-<br />
+[<img align="left" alt="Django" width="26px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fraditycmswebsite-live-5f5ab2ec57ec4907b-b52c0bb.divio-media.net%2Ffiler_public%2F4f%2F25%2F4f25a2d4-175d-4a72-abf1-6a70a320ad8d%2Fdjango-showcase-2.png&f=1&nofb=1" />]
+[<img align="left" alt="Gitlab" width="26px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F1%2F18%2FGitLab_Logo.svg%2F2000px-GitLab_Logo.svg.png&f=1&nofb=1" />]
+[<img align="left" alt="Dart" width="26px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.dartlang.org%2Fassets%2Fshared%2Fdart-logo-for-shares.png%3F2&f=1&nofb=1" />]
+[<img align="left" alt="PostgreSQL" width="26px" src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fproyectosbeta.net%2Fwp-content%2Fuploads%2F2016%2F04%2FLogo-PostgreSQL.png&f=1&nofb=1" />]
 
 ---
 
