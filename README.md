@@ -72,9 +72,6 @@
   <a style="margin: 0 30px" href="https://sass-lang.com" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="30" height="30"/> 
   </a> 
-  <a style="margin: 0 30px" href="https://www.scala-lang.org" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" alt="scala" width="30" height="30"/> 
-  </a> 
   <a style="margin: 0 30px" href="https://www.typescriptlang.org/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="30" height="30"/> 
   </a>
