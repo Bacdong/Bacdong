@@ -7,10 +7,6 @@
 
 ![Bacdong's github stats](https://github-readme-stats.vercel.app/api?username=Bacdong&show_icons=true&theme=tokyonight)
 
-### Spotify Playing 🎧
-
-[<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.Xb2bMZjDEFKdmicE9O0sAwHaE7%26pid%3DApi&f=1" alt="Hoang Thai Vu" width="200px" />](https://open.spotify.com/user/31qkc5iustkzaug2mbbjm6ubuspq)
-
 ### Connect with me:
 
 [<img align="left" alt="Bacdongg | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
@@ -36,32 +32,6 @@
 
 <br />
 <br />
-
----
-
-### 📺 Recently Viewed Videos
-
-<!-- YOUTUBE:START -->
-- [The Figma 2021 Crash Course by Example](https://www.youtube.com/watch?v=Gu1so3pz4bA&t=236s)
-- [270+ Creative CSS & Javascript Animation & Hover Effects | Stunning CSS3 Effects 2020](https://www.youtube.com/watch?v=iZ9tuuZzY_g)
-- [2021 Tech Trends & Predictions for Developers](https://www.youtube.com/watch?v=oHtR5YSPLjo)
-- [5 Tips To Get A Job in Web Development: Career Advice](https://www.youtube.com/watch?v=eip8MnR-4Z8)
-- [webpack Tutorial: devServer & Hot Module Replacement (Live Reload)](https://www.youtube.com/watch?v=yR25JoybTxo)
-<!-- YOUTUBE:END -->
-
-➡️ [More recently viewed videos...](https://youtube.com)
-
----
-
-### 📕 Recently Read Blogs
-
-<!-- BLOG-POST-LIST:START -->
-- [SCSS: @mixin and @include](https://sass-lang.com/documentation/at-rules/mixin)
-- [50+ Best CSS Hover Effects](https://csspoint101.com/50-best-css-hover-effects-2020/)
-- [Easy Lorem Ipsum Text Generator With Pure JavaScript – lorem-js](https://www.cssscript.com/easy-lorem-ipsum-text-generator-pure-javascript-lorem-js/)
-<!-- BLOG-POST-LIST:END -->
-
-➡️ [More recently read blogs...](https://vlaunch.com/blogs)
 
 ---
 
