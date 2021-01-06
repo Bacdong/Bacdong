@@ -31,7 +31,6 @@
 [<img align="left" alt="Python" width="26px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.freebiesupply.com%2Flogos%2Fthumbs%2F2x%2Fpython-5-logo.png&f=1&nofb=1" />]
 
 <br />
-<br />
 
 ---
 
