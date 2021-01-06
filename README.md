@@ -34,15 +34,45 @@
 
 ---
 
+### 📺 Recently Viewed Videos
+
+<!-- YOUTUBE:START -->
+- [The Figma 2021 Crash Course by Example](https://www.youtube.com/watch?v=Gu1so3pz4bA&t=236s)
+- [270+ Creative CSS & Javascript Animation & Hover Effects | Stunning CSS3 Effects 2020](https://www.youtube.com/watch?v=iZ9tuuZzY_g)
+- [2021 Tech Trends & Predictions for Developers](https://www.youtube.com/watch?v=oHtR5YSPLjo)
+- [5 Tips To Get A Job in Web Development: Career Advice](https://www.youtube.com/watch?v=eip8MnR-4Z8)
+- [webpack Tutorial: devServer & Hot Module Replacement (Live Reload)](https://www.youtube.com/watch?v=yR25JoybTxo)
+<!-- YOUTUBE:END -->
+
+➡️ [More recently viewed videos...](https://youtube.com)
+
+---
+
+### 📕 Recently Read Blogs
+
+<!-- BLOG-POST-LIST:START -->
+- [SCSS: @mixin and @include](https://sass-lang.com/documentation/at-rules/mixin)
+- [50+ Best CSS Hover Effects](https://csspoint101.com/50-best-css-hover-effects-2020/)
+- [Easy Lorem Ipsum Text Generator With Pure JavaScript – lorem-js](https://www.cssscript.com/easy-lorem-ipsum-text-generator-pure-javascript-lorem-js/)
+<!-- BLOG-POST-LIST:END -->
+
+➡️ [More recently read blogs...](https://vlaunch.com/blogs)
+
+---
+
 <details>
-  <summary>:zap: Recent GitHub Activity</summary>
+  <summary>:zap: Recently Viewed Videos</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#4](https://github.com/codeSTACKr/codestackr-vscode-theme/issues/4) in [codeSTACKr/codestackr-vscode-theme](https://github.com/codeSTACKr/codestackr-vscode-theme)
-2. 🗣 Commented on [#4](https://github.com/codeSTACKr/codestackr-vscode-theme/issues/4) in [codeSTACKr/codestackr-vscode-theme](https://github.com/codeSTACKr/codestackr-vscode-theme)
-3. 🎉 Merged PR [#7](https://github.com/codeSTACKr/codestackr-vscode-theme/pull/7) in [codeSTACKr/codestackr-vscode-theme](https://github.com/codeSTACKr/codestackr-vscode-theme)
-4. ❗️ Closed issue [#6](https://github.com/codeSTACKr/codestackr-vscode-theme/issues/6) in [codeSTACKr/codestackr-vscode-theme](https://github.com/codeSTACKr/codestackr-vscode-theme)
-5. 🗣 Commented on [#7](https://github.com/codeSTACKr/codestackr-vscode-theme/issues/7) in [codeSTACKr/codestackr-vscode-theme](https://github.com/codeSTACKr/codestackr-vscode-theme)
+<!-- YOUTUBE:START -->
+- [The Figma 2021 Crash Course by Example](https://www.youtube.com/watch?v=Gu1so3pz4bA&t=236s)
+- [270+ Creative CSS & Javascript Animation & Hover Effects | Stunning CSS3 Effects 2020](https://www.youtube.com/watch?v=iZ9tuuZzY_g)
+- [2021 Tech Trends & Predictions for Developers](https://www.youtube.com/watch?v=oHtR5YSPLjo)
+- [5 Tips To Get A Job in Web Development: Career Advice](https://www.youtube.com/watch?v=eip8MnR-4Z8)
+- [webpack Tutorial: devServer & Hot Module Replacement (Live Reload)](https://www.youtube.com/watch?v=yR25JoybTxo)
+<!-- YOUTUBE:END -->
+
+➡️ [More recently viewed videos...](https://youtube.com)
 <!--END_SECTION:activity-->
 
 </details>
