@@ -5,9 +5,10 @@
 
 ![](https://komarev.com/ghpvc/?username=Bacdong&color=blueviolet&style=flat-square&label=Visitors)
 
+![Bacdong's github stats](https://github-readme-stats.vercel.app/api?username=Bacdong&show_icons=true&theme=tokyonight)
 <p>
-  ![Bacdong's github stats](https://github-readme-stats.vercel.app/api?username=Bacdong&show_icons=true&theme=tokyonight)
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=bacdong&show_icons=true&locale=en&layout=compact" alt="bacdong" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=bacdong&show_icons=true&locale=en&theme=tokyonight" alt="bacdong" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=bacdong&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="bacdong" />
 </p>
 
 ### Connect with me:
