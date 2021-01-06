@@ -1,5 +1,6 @@
 ### Hi there, I'm Bacdongg 👋 ###
 
+[![Website](https://img.shields.io/website?label=VLAUNCH.COM&style=for-the-badge&url=https%3A%2F%2Fvlaunch.com)](https://vlaunch.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/bacdongg?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/bacdongg)
 
 ![](https://komarev.com/ghpvc/?username=Bacdong&color=blueviolet&style=flat-square&label=Visitors)
@@ -31,6 +32,7 @@
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />]
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />]
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />]
+[<img align="left" alt="Python" width="26px" src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.startertutorials.com%2Fblog%2Fwp-content%2Fuploads%2F2018%2F04%2Fpython-logo.png&f=1&nofb=1" />]
 
 <br />
 <br />
