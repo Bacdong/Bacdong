@@ -11,8 +11,11 @@
 </p>
 
 <br />
+<br />
 
-### Connect with me:
+---
+
+### Connect with me: ###
 
 <p align="left">
 <a href="https://twitter.com/bacdongg" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="bacdongg" height="30" width="40" /></a>
@@ -23,7 +26,7 @@
 
 <br />
 
-### Techniques:
+### Techniques: ###
 
 <p align="left"> 
   <a style="margin: 0 30px" href="https://getbootstrap.com" target="_blank"> 
