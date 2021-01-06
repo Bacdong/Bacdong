@@ -105,10 +105,17 @@
 </details>
 
 <details>
-  <summary>:zap: GitHub Stats</summary>
+  <summary>:zap: GitHub Stats </summary>
 
   <img align="left" alt="Bacdong's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Bacdong&show_icons=true&hide_border=true&theme=tokyonight" />
+</details>
 
+<details>
+  <summary>:zap: Github Activities </summary>
+  
+  <p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=bacdong&" alt="bacdong" />
+  </p>
 </details>
 
 [website]: https://vlaunch.com
