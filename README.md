@@ -4,7 +4,7 @@
 
 ![](https://komarev.com/ghpvc/?username=Bacdong&color=blueviolet&style=flat-square&label=Visitors)
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Bacdong&show_icons=true&theme=tokyonight)
+![Bacdong's github stats](https://github-readme-stats.vercel.app/api?username=Bacdong&show_icons=true&theme=tokyonight)
 
 ### Spotify Playing 🎧
 
@@ -53,7 +53,7 @@
 - [webpack Tutorial: devServer & Hot Module Replacement (Live Reload)](https://www.youtube.com/watch?v=yR25JoybTxo)
 <!-- YOUTUBE:END -->
 
-➡️ [more videos...](https://youtube.com)
+➡️ [More recently viewed videos...](https://youtube.com)
 
 ---
 
@@ -65,7 +65,7 @@
 - [Easy Lorem Ipsum Text Generator With Pure JavaScript – lorem-js](https://www.cssscript.com/easy-lorem-ipsum-text-generator-pure-javascript-lorem-js/)
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [more blog posts...](https://vlaunch.com/blogs)
+➡️ [More recently read blogs...](https://vlaunch.com/blogs)
 
 ---
 
