@@ -1,6 +1,6 @@
 ### Hi there, I'm Bacdongg 👋 ###
 
-[![Website](https://img.shields.io/website?label=VLAUNCH.COM&style=for-the-badge&url=https%3A%2F%2Fvlaunch.com)](https://vlaunch.com)
+[![Website](https://img.shields.io/website?label=VLAUNCH.COM&style=for-the-badge&url=https%3A%2F%2Fvlaunch.com)](http://vlaunch.com/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/bacdongg?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/bacdongg)
 
 ![](https://komarev.com/ghpvc/?username=Bacdong&color=blueviolet&style=flat-square&label=Visitors)
