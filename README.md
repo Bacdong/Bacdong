@@ -104,13 +104,15 @@
 <details>
   <summary>:zap: GitHub Stats </summary>
 
-  <img align="left" alt="Bacdong's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Bacdong&show_icons=true&hide_border=true&theme=tokyonight" />
+  <p align="left">
+    <img src="https://github-readme-stats.vercel.app/api?username=bacdong&show_icons=true&locale=en&theme=tokyonight" alt="bacdong" />
+  </p>
 </details>
 
 <details>
   <summary>:zap: Github Activities </summary>
   
-  <p align="center">
+  <p align="left">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=bacdong&theme=tokyonight" alt="bacdong" />
   </p>
 </details>
