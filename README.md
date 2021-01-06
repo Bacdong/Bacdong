@@ -118,6 +118,16 @@
   </p>
 </details>
 
+<details>
+  <summary>:zap: Github Contributes </summary>
+  
+  <p align="left"> 
+    <a href="https://github.com/ryo-ma/github-profile-trophy">
+      <img src="https://github-profile-trophy.vercel.app/?username=bacdong&theme=tokyonight" alt="bacdong" />
+    </a> 
+  </p>
+</details>
+
 [website]: https://vlaunch.com
 [twitter]: https://twitter.com/bacdongg
 [instagram]: https://instagram.com/imnortheasthat
