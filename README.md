@@ -114,7 +114,7 @@
   <summary>:zap: Github Activities </summary>
   
   <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=bacdong&" alt="bacdong" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=bacdong&theme=tokyonight" alt="bacdong" />
   </p>
 </details>
 
