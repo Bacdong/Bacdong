@@ -77,6 +77,9 @@
   <a style="margin: 0 30px" href="https://www.typescriptlang.org/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="30" height="30"/> 
   </a>
+  <a style="margin: 0 30px" href="https://www.angular.io/" target="_blank"> 
+    <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--W1T6Rsuy--/c_fill,f_auto,fl_progressive,h_320,q_auto,w_320/https://dev-to-uploads.s3.amazonaws.com/uploads/organization/profile_image/802/810a339f-085d-43d2-adac-be3c3c1ec611.png" alt="angular" width="30" height="30"/> 
+  </a>
 </p>
 
 ---
@@ -129,7 +132,8 @@
   </p>
 </details>
 
-[website]: https://vlaunch.com
+[website]: https://vlaunch.group
+[website]: https://lavisdecor.art
 [twitter]: https://twitter.com/bacdongg
 [instagram]: https://instagram.com/imnortheasthat
 [linkedin]: https://www.linkedin.com/in/i-m-bacdongg-0218571b1
