@@ -24,7 +24,6 @@
 ### Techniques: ###
 
 <p align="left"> 
-<!-- HTML - CSS - JS -->
   <a style="margin: 0 30px" href="https://www.w3.org/html/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="30" height="30"/> 
   </a>
@@ -34,17 +33,13 @@
   <a style="margin: 0 30px" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/> 
   </a> 
-  <!-- /HTML - CSS - JS -->
   
-  <!-- UI Library -->
    <a style="margin: 0 30px" href="https://getbootstrap.com" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="30" height="30"/>       </a> 
     <a style="margin: 0 30px" href="https://www.material.angular.io/" target="_blank"> 
     <img src="https://angular.io/generated/images/marketing/concept-icons/material.png" alt="angular material ui" width="30" height="30"/> 
   </a>
-    <!-- /UI Library -->
     
-    <!-- Frontend Framework -->
    <a style="margin: 0 30px" href="https://www.angular.io/" target="_blank"> 
     <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--W1T6Rsuy--/c_fill,f_auto,fl_progressive,h_320,q_auto,w_320/https://dev-to-uploads.s3.amazonaws.com/uploads/organization/profile_image/802/810a339f-085d-43d2-adac-be3c3c1ec611.png" alt="angular" width="30" height="30"/> 
   </a>
@@ -54,9 +49,7 @@
   <a style="margin: 0 30px" href="https://www.typescriptlang.org/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="30" height="30"/> 
   </a>
-     <!-- /Frontend Framework -->
      
-     <!-- Backend Techniques -->
    <a style="margin: 0 30px" href="https://www.python.org" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30" height="30"/> 
   </a> 
@@ -66,9 +59,7 @@
   <a style="margin: 0 30px" href="https://www.php.net" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="30" height="30"/> 
   </a> 
-     <!-- /Backend Techniques-->
      
-     <!-- Database -->
    <a style="margin: 0 30px" href="https://www.microsoft.com/en-us/sql-server" target="_blank"> 
     <img src="https://cdn.worldvectorlogo.com/logos/microsoft-sql-server.svg" alt="mssql" width="30" height="30"/> 
   </a> 
@@ -77,37 +68,27 @@
   </a> 
   <a style="margin: 0 30px" href="https://www.postgresql.org" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="30"                  height="30"/> 
-  </a> 
-     <!-- /Database -->
+  </a>
      
-     <!-- Mobile -->
    <a style="margin: 0 30px" href="https://dart.dev" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="30" height="30"/> 
   </a> 
   <a style="margin: 0 30px" href="https://flutter.dev" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="30" height="30"/> 
   </a> 
-     <!-- /Mobile -->
       
-     <!-- Deployment -->
    <a style="margin: 0 30px" href="https://heroku.com" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="30" height="30"/> 
   </a>  
-     <!-- /Deployment -->
   
-    <!-- Other tools -->
    <a style="margin: 0 30px" href="https://postman.com" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="30" height="30"/> 
   </a> 
-    <!-- /Other tools -->
     
-    <!-- Operating Systems -->
    <a style="margin: 0 30px" href="https://www.linux.org/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="30" height="30"/> 
   </a> 
-    <!-- /Operation Systems -->
     
-    <!-- Git Controls -->
   <a style="margin: 0 30px" href="https://git-scm.com/" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30"/> 
   </a> 
@@ -120,7 +101,6 @@
   <a style="margin: 0 30px" href="https://www.github.com/" target="_blank"> 
     <img src="http://pngimg.com/uploads/github/github_PNG40.png" alt="github" width="30" height="30"/> 
   </a> 
-    <!-- /Git Controls -->
 </p>
 
 ---
