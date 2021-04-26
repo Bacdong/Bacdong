@@ -80,6 +80,9 @@
   <a style="margin: 0 30px" href="https://www.angular.io/" target="_blank"> 
     <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--W1T6Rsuy--/c_fill,f_auto,fl_progressive,h_320,q_auto,w_320/https://dev-to-uploads.s3.amazonaws.com/uploads/organization/profile_image/802/810a339f-085d-43d2-adac-be3c3c1ec611.png" alt="angular" width="30" height="30"/> 
   </a>
+  <a style="margin: 0 30px" href="https://www.material.angular.io/" target="_blank"> 
+    <img src="https://angular.io/generated/images/marketing/concept-icons/material.png" alt="angular material ui" width="30" height="30"/> 
+  </a>
 </p>
 
 ---
