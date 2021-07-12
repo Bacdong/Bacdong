@@ -11,7 +11,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bacdong&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="bacdong" />
 </p>
 
-## Connect with me: ##
+** Connect with me: **
 
 <p align="left">
 <a href="https://twitter.com/bacdongg" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="bacdongg" height="25" width="35" /></a>
@@ -21,7 +21,7 @@
   <a href="https://www.youtube.com/channel/UC2tyyHnpy_gS30lI740K3CA" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="imnortheasthat" height="25" width="35" /></a>
 </p>
 
-## Technique skills: ##
+** Technique skills: **
 
 - Programming Languages: &nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
