@@ -24,15 +24,12 @@
 #### Techique skills: ####
 
 - Programming Languages: &nbsp;
-  ![HTML5](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
-  ![CSS3](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![Typescript](https://img.shields.io/badge/-Typescript-333333?style=flat&logo=typescript)
   ![Dart](https://img.shields.io/badge/-Dart-333333?style=flat&logo=Dart&logoColor=007ACC)
 
 - Frameworks: &nbsp;
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
-  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
   ![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=angular&logoColor=red)
   ![Material UI](https://img.shields.io/badge/-Angular%20Material%20UI-333333?style=flat&logo=material-ui&logoColor=yellow)
   ![Ant Design](https://img.shields.io/badge/-Ant%20Design-333333?style=flat&logo=ant-design&logoColor=007ACC)
@@ -41,9 +38,6 @@
 - Operating Systems:  &nbsp;
   ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux)
   ![MacOS](https://img.shields.io/badge/-MacOS-333333?style=flat&logo=macos)
-
-- IDEs: &nbsp;
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
 <!-- <p align="left"> 
   <a style="margin: 0 30px" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
