@@ -34,8 +34,8 @@
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
   ![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=angular&logoColor=red)
-  ![Material UI](https://img.shields.io/badge/-Material UI-333333?style=flat&logo=material-ui&logoColor=yellow)
-  ![Ant Design](https://img.shields.io/badge/-Ant Design-333333?style=flat&logo=ant-design&logoColor=007ACC)
+  ![Material UI](https://img.shields.io/badge/-Angular%20Material%20UI-333333?style=flat&logo=material-ui&logoColor=yellow)
+  ![Ant Design](https://img.shields.io/badge/-Ant%20Design-333333?style=flat&logo=ant-design&logoColor=007ACC)
   ![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=flutter&logoColor=007ACC)
 
 - Operating Systems:  &nbsp;
