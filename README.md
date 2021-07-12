@@ -21,9 +21,28 @@
   <a href="https://www.youtube.com/channel/UC2tyyHnpy_gS30lI740K3CA" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="imnortheasthat" height="30" width="40" /></a>
 </p>
 
-### Techniques: ###
+### Technique Skills: ###
 
-<p align="left"> 
+- Programming Languages: &nbsp;
+  ![Dart](https://img.shields.io/badge/-Dart-333333?style=flat&logo=Dart&logoColor=007ACC)
+  ![HTML5](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
+  ![CSS3](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+  ![Typescript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=typescript)
+
+- Frameworks: &nbsp;
+  ![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=flutter&logoColor=007ACC)
+  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
+  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+
+- Operating Systems:  &nbsp;
+  ![Linux](https://img.shields.io/badge/-Firebase-333333?style=flat&logo=firebase)
+  ![MacOS](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
+
+- IDEs: &nbsp;
+  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+
+<!-- <p align="left"> 
   <a style="margin: 0 30px" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/> 
   </a> 
@@ -58,7 +77,7 @@
   <a style="margin: 0 30px" href="https://git-scm.com/" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30"/> 
   </a> 
-</p>
+</p> -->
 
 ---
 
