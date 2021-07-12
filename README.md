@@ -24,20 +24,20 @@
 ### Technique Skills: ###
 
 - Programming Languages: &nbsp;
-  ![Dart](https://img.shields.io/badge/-Dart-333333?style=flat&logo=Dart&logoColor=007ACC)
   ![HTML5](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
   ![CSS3](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![Typescript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=typescript)
+  ![Typescript](https://img.shields.io/badge/-Typescript-333333?style=flat&logo=typescript)
+  ![Dart](https://img.shields.io/badge/-Dart-333333?style=flat&logo=Dart&logoColor=007ACC)
 
 - Frameworks: &nbsp;
-  ![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=flutter&logoColor=007ACC)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+  ![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=flutter&logoColor=007ACC)
 
 - Operating Systems:  &nbsp;
-  ![Linux](https://img.shields.io/badge/-Firebase-333333?style=flat&logo=firebase)
-  ![MacOS](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
+  ![Linux](https://img.shields.io/badge/-Firebase-333333?style=flat&logo=linux)
+  ![MacOS](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=macos)
 
 - IDEs: &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
