@@ -33,11 +33,15 @@
 - Frameworks: &nbsp;
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+  ![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=angular)
+  ![Angular Material](https://img.shields.io/badge/-AngularMaterial-333333?style=flat&logo=angular-material)
+  ![Ant Design](https://img.shields.io/badge/-AntDesign-333333?style=flat&logo=ant-design)
+  
   ![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=flutter&logoColor=007ACC)
 
 - Operating Systems:  &nbsp;
-  ![Linux](https://img.shields.io/badge/-Firebase-333333?style=flat&logo=linux)
-  ![MacOS](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=macos)
+  ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux)
+  ![MacOS](https://img.shields.io/badge/-MacOS-333333?style=flat&logo=macos)
 
 - IDEs: &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
