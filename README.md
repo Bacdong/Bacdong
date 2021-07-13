@@ -11,7 +11,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bacdong&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="bacdong" />
 </p>
 
-##### Connect with me: ####
+#### Connect with me: ####
 
 <p align="left">
 <a href="https://twitter.com/bacdongg" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="bacdongg" height="25" width="35" /></a>
