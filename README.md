@@ -15,10 +15,10 @@
 
 <p align="left">
 <a href="https://twitter.com/bacdongg" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="bacdongg" height="25" width="35" /></a>
-<a href="https://linkedin.com/in/i-m-bacdongg-0218571b1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="i-m-bacdongg-0218571b1" height="25" width="35" /></a>
+<a href="https://www.linkedin.com/in/bacdongg/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="i-m-bacdongg-0218571b1" height="25" width="35" /></a>
 <a href="https://fb.com/duongbacdong.2000" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="duongbacdong.2000" height="25" width="35" /></a>
 <a href="https://instagram.com/imnortheasthat" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="imnortheasthat" height="25" width="35" /></a>
-  <a href="https://www.youtube.com/channel/UC2tyyHnpy_gS30lI740K3CA" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="imnortheasthat" height="25" width="35" /></a>
+<!--   <a href="https://www.youtube.com/channel/UC2tyyHnpy_gS30lI740K3CA" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="imnortheasthat" height="25" width="35" /></a> -->
 </p>
 
 #### Techique skills: ####
