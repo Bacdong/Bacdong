@@ -131,5 +131,5 @@
 [website]: https://lavisdecor.art
 [twitter]: https://twitter.com/bacdongg
 [instagram]: https://instagram.com/imnortheasthat
-[linkedin]: https://www.linkedin.com/in/i-m-bacdongg-0218571b1
+[linkedin]: https://www.linkedin.com/in/bacdongg/
 
