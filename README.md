@@ -35,6 +35,7 @@
   ![Material UI](https://img.shields.io/badge/-Angular%20Material%20UI-333333?style=flat&logo=material-ui&logoColor=yellow)
   ![Ant Design](https://img.shields.io/badge/-Ant%20Design-333333?style=flat&logo=ant-design&logoColor=007ACC)
   ![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=flutter&logoColor=007ACC)
+  ![NX](https://img.shields.io/badge/-NX-333333?style=flat&logo=nx&logoColor=007ACC)
 
 - Operating Systems:  &nbsp;
   ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux)
