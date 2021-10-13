@@ -36,7 +36,7 @@
   ![ReactiveX](https://img.shields.io/badge/-ReactiveX-333333?style=flat&logo=reactivex&logoColor=B7178C)
   ![Material UI](https://img.shields.io/badge/-Angular%20Material%20UI-333333?style=flat&logo=material-ui&logoColor=yellow)
   ![Ant Design](https://img.shields.io/badge/-Ant%20Design-333333?style=flat&logo=ant-design&logoColor=007ACC)
-  ![Kendo UI](https://img.shields.io/badge/-Kendo%20UI-333333?style=flat&logo=kendo-ui&logoColor=4DC726)
+  ![Kendo UI](https://img.shields.io/badge/-Kendo%20UI-333333?style=flat&logo=https://d585tldpucybw.cloudfront.net/sfimages/default-source/blogs/author-images/progress-blog-default-logo-transparent.png?sfvrsn=c1207fac_1&logoColor=4DC726)
   ![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=flutter&logoColor=007ACC)
 
 - Operating Systems:  &nbsp;
