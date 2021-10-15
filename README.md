@@ -6,7 +6,11 @@
 
 ![](https://komarev.com/ghpvc/?username=Bacdong&color=blueviolet&style=flat-square&label=Visitors)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bacdong&theme=_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bacdong&theme=github_dark)
+<div>
+		![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=VHAE04&theme=github_dark)
+		![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=VHAE04&theme=github_dark)
+</div>
 
 <p align="left">
 <!--   <img src="https://github-readme-stats.vercel.app/api?username=bacdong&show_icons=true&locale=en&theme=tokyonight" alt="bacdong" /> <br /> -->
