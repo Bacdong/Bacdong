@@ -7,10 +7,9 @@
 ![](https://komarev.com/ghpvc/?username=Bacdong&color=blueviolet&style=flat-square&label=Visitors)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bacdong&theme=monokai)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Bacdong&theme=monokai)
 
 <div align="left">
-  ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Bacdong&theme=monokai)
-  
 <!--   <img src="https://github-readme-stats.vercel.app/api?username=bacdong&show_icons=true&locale=en&theme=tokyonight" alt="bacdong" /> <br /> -->
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bacdong&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="bacdong" />
