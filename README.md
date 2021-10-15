@@ -1,4 +1,4 @@
-### Hi there, I'm Bacdongg <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="40"> ###
+### Hi there, I'm Bacdongg <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> ###
 
 [![Website](https://img.shields.io/website?label=VLAUNCH.GROUP&style=for-the-badge&url=https%3A%2F%2Fvlaunch.group)](http://vlaunch.group/)
 [![Website](https://img.shields.io/website?label=LAVISDECOR.ART&style=for-the-badge&url=https%3A%2F%2Flavisdecor.art)](http://lavisdecor.art/)
