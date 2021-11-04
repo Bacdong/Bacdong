@@ -42,7 +42,6 @@ Thanks for visiting my Github :)
 - Operating Systems:  &nbsp;
   ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux)
   ![MacOS](https://img.shields.io/badge/-MacOS-333333?style=flat&logo=macos)
----
 
 [website]: https://vlaunch.group
 [website]: https://lavisdecor.art
