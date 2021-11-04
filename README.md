@@ -24,8 +24,8 @@ Thanks for visiting my Github :)
 ![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=flutter&logoColor=007ACC)
 ![NX](https://img.shields.io/badge/-NX-333333?style=flat&logo=nx&logoColor=007ACC)
 
+- &nbsp;
 <div>
-  <span style="width: 30px; display: inline-block"></span>
   
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=7952B3)
   ![SASS](https://img.shields.io/badge/-Sass-333333?style=flat&logo=sass&logoColor=CC6699)
