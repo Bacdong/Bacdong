@@ -11,16 +11,6 @@ I have been a Front - End Developer for 1 year and 7 months of experience in the
 I always try the best to improve as well as enhance myself about new and emerging trends in the Front - End sector. <br />
 Thanks for visiting my Github :)
 
-#### Connect with me: ####
-
-<p align="left">
-<a href="https://twitter.com/bacdongg" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="bacdongg" height="25" width="35" /></a>
-<a href="https://www.linkedin.com/in/bacdongg/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="i-m-bacdongg-0218571b1" height="25" width="35" /></a>
-<a href="https://fb.com/duongbacdong.2000" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="duongbacdong.2000" height="25" width="35" /></a>
-<a href="https://instagram.com/imnortheasthat" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="imnortheasthat" height="25" width="35" /></a>
-<!--   <a href="https://www.youtube.com/channel/UC2tyyHnpy_gS30lI740K3CA" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="imnortheasthat" height="25" width="35" /></a> -->
-</p>
-
 #### Techique skills: ####
 
 - Programming Languages: &nbsp;
@@ -42,10 +32,14 @@ Thanks for visiting my Github :)
 - Operating Systems:  &nbsp;
   ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux)
   ![MacOS](https://img.shields.io/badge/-MacOS-333333?style=flat&logo=macos)
+  
+#### Connect with me: ####
 
-[website]: https://vlaunch.group
-[website]: https://lavisdecor.art
-[twitter]: https://twitter.com/bacdongg
-[instagram]: https://instagram.com/imnortheasthat
-[linkedin]: https://www.linkedin.com/in/bacdongg/
+<p align="left">
+<a href="https://twitter.com/bacdongg" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="bacdongg" height="25" width="35" /></a>
+<a href="https://www.linkedin.com/in/bacdongg/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="i-m-bacdongg-0218571b1" height="25" width="35" /></a>
+<a href="https://fb.com/duongbacdong.2000" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="duongbacdong.2000" height="25" width="35" /></a>
+<a href="https://instagram.com/imnortheasthat" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="imnortheasthat" height="25" width="35" /></a>
+<!--   <a href="https://www.youtube.com/channel/UC2tyyHnpy_gS30lI740K3CA" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="imnortheasthat" height="25" width="35" /></a> -->
+</p>
 
