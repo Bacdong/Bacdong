@@ -18,11 +18,15 @@ Thanks for visiting my Github :)
   ![Typescript](https://img.shields.io/badge/-Typescript-333333?style=flat&logo=typescript)
   ![Dart](https://img.shields.io/badge/-Dart-333333?style=flat&logo=Dart&logoColor=0175C2)
 
+<div style="display: flex !important; align-items: center !important;">
+  
 - Frameworks: &nbsp;
 ![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=angular&logoColor=DD0031)
 ![ReactiveX](https://img.shields.io/badge/-ReactiveX-333333?style=flat&logo=reactivex&logoColor=B7178C)
 ![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=flutter&logoColor=007ACC)
 ![NX](https://img.shields.io/badge/-NX-333333?style=flat&logo=nx&logoColor=007ACC)
+  
+</div>
 
 - &nbsp;
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=7952B3)
