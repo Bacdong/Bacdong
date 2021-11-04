@@ -6,7 +6,6 @@
 
 ![](https://komarev.com/ghpvc/?username=Bacdong&color=blueviolet&style=flat-square&label=Visitors)
 
-I have been working as Front - End Developer for 1 year 7 months experience in website platform using Angular (HTML5, SCSS, Typescript) and ReactiveX (RxJS).
 I have been a Front - End Developer for 1 year and 7 months of experience in the website platforms, including more than 10 months of experience with Angular (HTML5, SCSS, Typescript) and ReactiveX (RxJS).
 
 I always try the best to improve as well as enhance myself about new and emerging trends in the Front - End sector.
