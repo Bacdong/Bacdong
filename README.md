@@ -8,7 +8,7 @@
 
 I have been a Front - End Developer for 1 year and 7 months of experience in the website platforms, including more than 10 months of experience with Angular (HTML5, SCSS, Typescript) and ReactiveX (RxJS).
 
-I always try the best to improve as well as enhance myself about new and emerging trends in the Front - End sector.
+I always try the best to improve as well as enhance myself about new and emerging trends in the Front - End sector. <br />
 Thanks for visiting my Github :)
 
 #### Connect with me: ####
