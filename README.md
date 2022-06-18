@@ -6,7 +6,7 @@
 
 ![](https://komarev.com/ghpvc/?username=Bacdong&color=blueviolet&style=flat-square&label=Visitors)
 
-I have been a Front - End Developer for 2 years of experience in the website platforms, including 1 year and 4 months of experience with Angular (HTML5, SCSS, Typescript) and ReactiveX (RxJS).
+I have been a Front - End Developer for 2+ years of experience in the website platforms, including 1 year and 5 months of experience with Angular (HTML5, SCSS, Typescript) and ReactiveX (RxJS).
 
 I always try the best to improve as well as enhance myself about new and emerging trends in the Front - End sector. <br />
 Thanks for visiting my Github :)
@@ -46,6 +46,6 @@ Thanks for visiting my Github :)
 </p>
 
 <div align="right">
-  <strong>Updated at April 27, 2022</strong>
+  <strong>Updated at Jun 19, 2022</strong>
 </div>
 
