@@ -6,7 +6,7 @@
 
 ![](https://komarev.com/ghpvc/?username=Bacdong&color=blueviolet&style=flat-square&label=Visitors)
 
-I have been a Front - End Engineer for 4.5+ years of experience in the website platforms, including 4+ years of experience with Angular (HTML5, SCSS, Typescript) and ReactiveX (RxJS).
+I have been a Front - End Engineer for 5+ years of experience in the website platforms, including 5 years of experience with Angular (HTML5, SCSS, Typescript) and ReactiveX (RxJS).
 
 I always try the best to improve as well as enhance myself about new and emerging trends in the Front - End sector. <br />
 Thanks for visiting my Github :)
@@ -21,11 +21,13 @@ Thanks for visiting my Github :)
 - Frameworks: &nbsp;
 ![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=angular&logoColor=DD0031)
 ![ReactiveX](https://img.shields.io/badge/-ReactiveX-333333?style=flat&logo=reactivex&logoColor=B7178C)
+![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react&logoColor=61DAFB)
 ![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=flutter&logoColor=007ACC)
 ![NX](https://img.shields.io/badge/-NX-333333?style=flat&logo=nx&logoColor=007ACC)
   
 - 
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=7952B3)
+  ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-333333?style=flat&logo=tailwind-css&logoColor=38B2AC)
   ![SASS](https://img.shields.io/badge/-Sass-333333?style=flat&logo=sass&logoColor=CC6699)
   ![Material UI](https://img.shields.io/badge/-Angular%20Material%20UI-333333?style=flat&logo=material-ui&logoColor=yellow)
   ![Ant Design](https://img.shields.io/badge/-Ant%20Design-333333?style=flat&logo=ant-design&logoColor=0170FE)
@@ -46,6 +48,6 @@ Thanks for visiting my Github :)
 </p>
 
 <div align="right">
-  <strong>Updated at Sep 11, 2022</strong>
+  <strong>Updated at Sep 22, 2023</strong>
 </div>
 
