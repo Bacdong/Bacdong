@@ -6,7 +6,7 @@
 
 ![](https://komarev.com/ghpvc/?username=Bacdong&color=blueviolet&style=flat-square&label=Visitors)
 
-I have been a Front - End Engineer for 5.5+ years of experience in the website platforms, including 5 years of experience with Angular, NuxtJS, React, NextJS (HTML5, SCSS, Typescript) and ReactiveX (RxJS).
+I have been a Front - End Engineer for 6+ years of experience in the website platforms, including 6+ years of experience with Angular, NuxtJS, React, NextJS (HTML5, SCSS, Typescript) and ReactiveX (RxJS).
 
 I always try the best to improve as well as enhance myself about new and emerging trends in the Front - End sector. <br />
 Thanks for visiting my Github :)
@@ -48,6 +48,6 @@ Thanks for visiting my Github :)
 </p>
 
 <div align="right">
-  <strong>Updated at Jan 23, 2024</strong>
+  <strong>Updated at July 26, 2024</strong>
 </div>
 
