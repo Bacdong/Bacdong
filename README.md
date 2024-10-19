@@ -6,9 +6,31 @@
 
 ![](https://komarev.com/ghpvc/?username=Bacdong&color=blueviolet&style=flat-square&label=Visitors)
 
-I have been a Front - End Engineer for 6+ years of experience in the website platforms, including 6+ years of experience with Angular, NuxtJS, React, NextJS (HTML5, SCSS, Typescript) and ReactiveX (RxJS).
+With over 6 years of hands-on experience, I have a proven track record of crafting scalable, responsive, accessible, high-performance Front-End Single Page Applications (SPAs) using a versatile teck stack, including:
 
-I always try the best to improve as well as enhance myself about new and emerging trends in the Front - End sector. <br />
+- Angular
+- React | NextJS | NuxtJS
+- Javascript | Typescript
+- Reactive Programming (RxJS)
+
+My journey has taken me through diverse sectors including:
+
+- ERP
+- E-Commerce
+- B2B
+- Logistic
+- B2C
+- HRM
+- Education
+- Interior Decor
+- Multi-Clouds Integration Platform
+- Manufacturing
+
+Each role has been a chapter in a story of growth and excellence.
+
+I thrilled on innovation, leadership, and continuous learning.
+
+When I’m not leading Front-End initiatives, I always try my best to improve and stay ahead of cutting-edge and emerging trends in the Front-End sector. <br />
 Thanks for visiting my Github :)
 
 #### Techique skills: ####
@@ -48,6 +70,6 @@ Thanks for visiting my Github :)
 </p>
 
 <div align="right">
-  <strong>Updated at July 26, 2024</strong>
+  <strong>Updated at Oct 19, 2024</strong>
 </div>
 
