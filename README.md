@@ -13,24 +13,14 @@ With over 6 years of hands-on experience, I have a proven track record of crafti
 - Javascript | Typescript
 - Reactive Programming (RxJS)
 
-My journey has taken me through diverse sectors including:
-
-- ERP
-- E-Commerce
-- B2B
-- Logistic
-- B2C
-- HRM
-- Education
-- Interior Decor
-- Multi-Clouds Integration Platform
-- Manufacturing
+My journey has taken me through diverse sectors including: ERP, E-Commerce, B2B, Logistic, B2C, HRM, Education, Interior Decor, Multi-Clouds Integration Platform, Manufacturing
 
 Each role has been a chapter in a story of growth and excellence.
 
 I thrilled on innovation, leadership, and continuous learning.
 
 When I’m not leading Front-End initiatives, I always try my best to improve and stay ahead of cutting-edge and emerging trends in the Front-End sector. <br />
+
 Thanks for visiting my Github :)
 
 #### Techique skills: ####
