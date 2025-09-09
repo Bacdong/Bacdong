@@ -6,10 +6,10 @@
 
 ![](https://komarev.com/ghpvc/?username=Bacdong&color=blueviolet&style=flat-square&label=Visitors)
 
-With over 6 years of hands-on experience, I have a proven track record of crafting scalable, responsive, accessible, high-performance Front-End Single Page Applications (SPAs) using a versatile teck stack, including:
+With over 7 years of hands-on experience, I have a proven track record of crafting scalable, responsive, accessible, high-performance Front-End Single Page Applications (SPAs) using a versatile teck stack, including:
 
 - Angular
-- React | NextJS | NuxtJS
+- React | Next.js | Nuxt.js
 - Javascript | Typescript
 - Reactive Programming (RxJS)
 
@@ -60,6 +60,6 @@ Thanks for visiting my Github :)
 </p>
 
 <div align="right">
-  <strong>Updated at Oct 19, 2024</strong>
+  <strong>Updated at Sep 09, 2024</strong>
 </div>
 
